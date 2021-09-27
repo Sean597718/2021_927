@@ -21,17 +21,39 @@ Combined emphasis with **asterisks and underscores**.</br>
 Strikethrough uses two tildes. ~~Scratch this~~.
 
 ---
+- [X] NiNJA
+- [ ] nini
+- [ ] god
+---
+```python
+s = "Python syntax highlighting"
+print s
+```
+```js
+var s = JavaScript syntaxhighlighting
+alert(s);
+```- [X] NiNJA
+- [ ] nini
+- [ ] god
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+```js
+var s = JavaScript syntaxhighlighting
+alert(s);
+```
 1. First ordered list item</br>
 2. Another item</br>
-    ..* Unordered sub-list.</br>
+    * Unordered sub-list.</br>
 3. Actual numbers don’t matter, just that it’s a number</br>
-    ..1. Ordered sub-list</br>
-    …2. 2nd</br>
+        1. Ordered sub-list</br>
+        2. 2nd</br>
 4. And another item. </br>
-    ...* note 1</br>
-    …* note 2</br>
-    *** note 3
+    - note 1
+    - note 2
+    - note 3
 ---
 
 Colons can be align columns.
@@ -52,16 +74,5 @@ raw Markdown line up prettily. You can also use inline Markdown <br>
 
 
 
-- [X] do something
-- [ ] 2nd
-- [ ] undo
 
-```python
-s = "Python syntax highlighting"
-print s
-```
-```js
-var s = JavaScript syntaxhighlighting
-alert(s);
-```
 </p>
