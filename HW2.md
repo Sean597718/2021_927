@@ -1,4 +1,5 @@
 ### 甘特圖
+![gantt](git用)
 ```mermaid
 gantt
     title 甘特圖練習
